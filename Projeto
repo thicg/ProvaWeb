@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Avaliação Web</title>
+</head>
+<body> 
+    <h1>Currículo Fictício</h1><p>
+    <img src="curriculo.png"><p>
+        <table>
+          <tr>
+            <td>1º Grau técnico</td>  
+            <td>Graduação</td>
+          </tr>  
+        </table><p>
+<ul>   
+<li>Informática</li>
+<li>Engenharia</li>
+</ul><p>
+
+<a href="www.classroom.google.com">Site de Sala de Aula
+</a>
+<p>
+
+<div style="background-color: blue"> 
+    <h1>Currículo</h1>
+</div>
+
+</body>
+</html>
